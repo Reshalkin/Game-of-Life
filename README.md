@@ -1,9 +1,5 @@
 # Game-of-Life
 
-Test task
-
-Game of Life
-
 Часть 1
 
 Задание на C++
