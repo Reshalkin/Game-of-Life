@@ -23,10 +23,13 @@ Game of Life
 Решение
 
 Версия компилятора: g++ 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.11)
+
 $ g++ -o game gol.cpp 
+
 $ ./game 20 20 100 
 
 20 20 100 - height, width, iterations
+
 
 Часть 2
 
