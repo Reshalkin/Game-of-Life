@@ -22,9 +22,7 @@
 
 $ g++ -o game gol.cpp 
 
-$ ./game 20 20 100 
-
-20 20 100 - height, width, iterations
+$ ./game 20 20 100    (20 20 100 - height, width, iterations)
 
 
 Часть 2
